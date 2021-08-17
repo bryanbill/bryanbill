@@ -31,7 +31,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Stats ....***
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -107,9 +106,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/bryanbill/bryanbill/master/charts/bar_graph.png) 
 
 
  Last Updated on 16/08/2021
