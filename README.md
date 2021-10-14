@@ -1,7 +1,7 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-TypeScript-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-brightgreen" />
 </p>
