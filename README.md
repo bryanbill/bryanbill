@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-TypeScript-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bryan Omondi</h1>
