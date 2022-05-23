@@ -1,12 +1,12 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-TypeScript-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Flutter-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Brian Omondi</h1>
-<h3 align="center">Full Stack Dev</h3>
+<h3 align="center">Full-Stack Mobile Dev</h3>
 <p align="center">
 <a href="https://www.dev.to/bryanbill" target="blank"><img align="center" src="https://friconix.com/png/fi-swluxx-dev-to.png" alt="Bryan" height="30" width="40" /></a>
 <a href="https://www.twitter.com/bryanbill" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Bryan" height="30" width="40" /></a>
