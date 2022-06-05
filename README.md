@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Brian Omondi</h1>
+<h1 align="center">Hi, I'm Brian Omondi</h1>
 <h3 align="center">Full-Stack Mobile Dev</h3>
 <p align="center">
 <a href="https://wakatime.com/@bryanbill" target="blank"><img align="center" src="./wakatime.png" alt="Bryan" height="30" width="40" /></a>
