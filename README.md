@@ -1,7 +1,6 @@
 
  <p align="center">
-<img src="https://img.shields.io/badge/Focus-Golang-blue" />
-  <img src="https://img.shields.io/badge/Focus-Flutter-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Golang & Flutter-blue" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
 </p>
 <hr>
