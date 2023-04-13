@@ -1,5 +1,5 @@
 
- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Focus-Golang & Dart-blue" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
 </p>
@@ -28,9 +28,3 @@ Here are some of the projects I'm working on:
 ## Get in Touch
 
 - Email: [brian@namani.co](mailto:brian@namani.co)
-- LinkedIn: [linkedin.com/in/bryanomondi254/](https://www.linkedin.com/in/bryanomondi254/)
-- Twitter: [@Bill](https://twitter.com/SuperDispose)
-
-Let's connect and collaborate on something awesome!
-
-</p>
