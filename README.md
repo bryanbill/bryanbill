@@ -25,6 +25,3 @@ Here are some of the projects I'm working on:
 - [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps 
 - [Fetch](https://github.com/bryanbill/fetch) - A Dart package for making Http Requests
 
-## Get in Touch
-
-- Email: [brian@namani.co](mailto:brian@namani.co)
