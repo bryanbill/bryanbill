@@ -1,7 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Golang & Dart-blue" />
-  <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
+<img src="https://img.shields.io/badge/Skills-Java, Golang & Dart-blue" />
 </p>
 <hr>
 
@@ -22,6 +21,5 @@ I'm a software engineer who loves building awesome solutions. In my free time, y
 
 Here are some of the projects I'm working on:
 
-- [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps 
-- [Fetch](https://github.com/bryanbill/fetch) - A Dart package for making Http Requests
+- [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps
 
