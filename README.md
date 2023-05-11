@@ -22,4 +22,5 @@ I'm a software engineer who loves building awesome solutions. In my free time, y
 Here are some of the projects I'm working on:
 
 - [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps
+- [Zero](https://github.com/bryanbill/zero) - A fast, lightweight backend framework written in Dart
 
