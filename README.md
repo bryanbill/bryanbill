@@ -23,4 +23,4 @@ Here are some of the projects I'm working on:
 
 - [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps
 - [Zero](https://github.com/bryanbill/zero) - A fast, lightweight backend framework written in Dart
-
+- [Cupp](https://github.com/bryanbill/cupp) - A simple and easy to learn functional programming language
