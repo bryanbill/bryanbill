@@ -10,8 +10,6 @@
 
 I'm a passionate and experienced software developer based in Kenya. I love building web and mobile applications that empower businesses and individuals. 
 
-Here's a bit about my skills and experience:
-
 Skills:
 - Web Development (HTML and CSS)
 - Javascript
