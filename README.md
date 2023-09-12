@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Skills-Java, Golang & Dart-blue" />
+<img src="https://img.shields.io/badge/Skills-Javascript, Nodejs, React/React Native, Flutter, Java, Android Development-blue" />
 </p>
 <hr>
 
@@ -8,19 +8,15 @@
 
 ## About Me
 
-I'm a software engineer who loves building awesome solutions. In my free time, you can find me cycling or reading about the latest tech trends.
+I'm a passionate and experienced software developer based in Kenya. I love building web and mobile applications that empower businesses and individuals. 
 
-## My Skills
+Here's a bit about my skills and experience:
 
-- Dart
-- Golang
+Skills:
+- Web Development (HTML and CSS)
+- Javascript
 - Typescript
-- Java
+- Mobile Application Development (Android, React Native, Flutter)
+- MongoDB
+- PostgreSQL
 
-## My Projects
-
-Here are some of the projects I'm working on:
-
-- [Kitawi](https://github.com/bryanbill/kitawi) - A declarative UI library for building Web Apps
-- [Zero](https://github.com/bryanbill/zero) - A fast, lightweight backend framework written in Dart
-- [Cupp](https://github.com/bryanbill/cupp) - A simple and easy to learn functional programming language
