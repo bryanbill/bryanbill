@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Skills-Javascript, Nodejs, React/React Native, Flutter, Java, Android Development-blue" />
+<img src="https://img.shields.io/badge/Skills-Java, Kotlin, React/React Native, Java,Flutter" />
 </p>
 <hr>
 
@@ -14,6 +14,8 @@ Skills:
 - Web Development (HTML and CSS)
 - Javascript
 - Typescript
+- Java
+- Kotlin
 - Mobile Application Development (Android, React Native, Flutter)
 - MongoDB
 - PostgreSQL
