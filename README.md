@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Skills-Java, Kotlin, Vue, React/React Native, Flutter-blue" />
+<img src="https://img.shields.io/badge/Skills-Java, Javascript-blue" />
 </p>
 <hr>
 
