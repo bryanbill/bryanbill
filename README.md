@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Skills-Java, Javascript-blue" />
+<img src="https://img.shields.io/badge/Skills-Java, Javascript, Vue, Flutter, PostgreSQL-blue" />
 </p>
 <hr>
 
